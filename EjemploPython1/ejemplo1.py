@@ -1,6 +1,5 @@
 print("Hola mundo!")
 nombre=input("Dime tu nombre")
-print(f"Me llamo {nombre} y mi edad es de {input(("Indica tu edad"))} años")
 print(type(nombre))
 print(type(3/2))
 print('Ejemplo de "comillas"')
